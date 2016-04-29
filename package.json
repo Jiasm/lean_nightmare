@@ -1,0 +1,22 @@
+{
+  "name": "lean_nightmare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiasm/lean_nightmare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiasm/lean_nightmare/issues"
+  },
+  "homepage": "https://github.com/Jiasm/lean_nightmare#readme",
+  "devDependencies": {
+    "nightmare": "^2.3.4"
+  }
+}
